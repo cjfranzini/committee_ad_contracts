@@ -1,0 +1,16 @@
+id,value
+Types,
+Types.Non-Profit,
+Types.Non-Profit.Individual,3937
+Types.Non-Profit.Charity (501(c)3),3938
+Types.Non-Profit.Social Welfare (501(c)4),3939
+Types.Non-Profit.Labor (501(c)5),3940
+Types.Political Action Committee (PAC),
+Types.Political Action Committee (PAC).PAC, 1983
+Types.Political Action Committee (PAC).Candidate-Affiliated,
+Types.Political Action Committee (PAC).Candidate-Affiliated.House PAC, 1983
+Types.Political Action Committee (PAC).Candidate-Affiliated.Senate PAC, 1983
+Types.Political Action Committee (PAC).Candidate-Affiliated.Presidential PAC, 1983
+Types.Political Action Committee (PAC).SuperPAC, 1983
+Types.Party,
+Types.Party.Party Committee,721
